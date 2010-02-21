@@ -24,6 +24,7 @@ BuildRequires: libgee-devel
 BuildRequires: pulseaudio-devel
 BuildRequires: desktop-file-utils
 Source0: %{name}-%{git}.tar.bz2
+Source1: %{name}.desktop
 BuildRoot: %{_tmppath}/%{name}-%{version}-buildroot
 URL: http://git.0pointer.de/?p=gnome-speaker-setup.git
 
