@@ -1,7 +1,7 @@
 %define name gnome-speaker-setup
 %define version 0.0.0
 %define git 20100221
-%define rel 4
+%define rel 5
 %if %{git}
 %define release %mkrel 0.%{git}.%{rel}
 %else
