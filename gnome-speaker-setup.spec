@@ -16,6 +16,7 @@ Version: %{version}
 Release: %{release}
 License: LGPLv2+
 Group:   Graphical desktop/GNOME
+BuildRequires:	make
 BuildRequires: libgnomeui2-devel
 BuildRequires: vala-devel
 BuildRequires: vala-tools
